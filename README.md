@@ -43,7 +43,7 @@ As a passionate Data Scientist, Machine Learning Enthusiast, and Deep Learning E
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazc4bGVxMzU2dGFiZHBoYm41eWxldnBubms5Z3hiNmFuamN3YTB2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif"  />
+<img align="middle" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazc4bGVxMzU2dGFiZHBoYm41eWxldnBubms5Z3hiNmFuamN3YTB2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif"  />
 
 ###
 
