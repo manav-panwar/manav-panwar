@@ -35,7 +35,11 @@ As a passionate Data Scientist, Machine Learning Enthusiast, and Deep Learning E
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manav-panwar/manav-panwar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manav-panwar/manav-panwar/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manav-panwar/manav-panwar/output/github-snake.svg" />
+</picture>
 <img src="https://raw.githubusercontent.com/manav-panwar/manav-panwar/output/snake.svg" alt="Snake animation" />
 
 ###
