@@ -1,5 +1,5 @@
 # Hello! 👋 Who am I? #
-- I am Manav Panwar, a passionate Data Scientist from India.
+- I am Manav Panwar, a passionate Data Scientist.
 - I’m skilled in Python, Machine Learning, and Data Analysis.
 - I’m currently learning Deep Learning and exploring new Ensemble ML Algorithms to expand my skillset.
 - I’m looking to collaborate on projects involving Machine Learning, Data Analytics, and innovative AI solutions.
