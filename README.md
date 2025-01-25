@@ -4,7 +4,6 @@
 - I’m currently learning Deep Learning and exploring new Ensemble ML Algorithms to expand my skillset.
 - I’m looking to collaborate on projects involving Machine Learning, Data Analytics, and innovative AI solutions.
 - Ask me about Python, Data Science practices, and ML Algorithms.
-<br>
 
 ###
 ## GitHub Info
