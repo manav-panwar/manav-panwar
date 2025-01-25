@@ -80,7 +80,8 @@
 
 ###
 <summary><b>GitHub Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manav-panwar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="ManavPanwar" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manav-panwar&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="manavpanwar" /></p>
+
 <br>
 
 ###
