@@ -6,10 +6,8 @@
 - Ask me about Python, Data Science practices, and ML Algorithms.
 
 ###
-## GitHub Info
 
-
-<summary><b>Tech Stack</b></summary>
+### My Tech Stack
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
   <br>
@@ -72,6 +70,7 @@
 <br>
 
 ###
+## GitHub Info
 <summary><b>GitHub Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=manav-panwar&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="manav-panwar" align="center" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=manav-panwar&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="manav-panwar" align="center" /></p>
