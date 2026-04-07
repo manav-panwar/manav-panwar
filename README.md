@@ -1,8 +1,8 @@
 ## Hi, I'm Manav Panwar!
-I'm Manav Panwar, A Gen AI Engineer based in India.
-The mainly work with Python and the main libraries are PyTorch, LangChain and scikit-learn.
-Lately, I’ve been trying to build things from scratch (without using any fancy libraries) to really understand how they work.
-I like coding, math and music!
+- I'm Manav Panwar, a CS student based in India  
+- I mainly work with Python (PyTorch, LangChain, scikit-learn)  
+- Lately, I’ve been building things from scratch (without fancy libraries) to really understand how they work  
+- I like coding, math, and music  
 
 <summary><b>Here is a dope animation for you to enjoy</b></summary>
 <div align="center">
