@@ -2,7 +2,7 @@
 - I'm Manav Panwar, a CS student based in India
 - I mainly work with Python (PyTorch, LangChain, scikit-learn)
 - Lately, I’ve been building things from scratch (without fancy libraries) to really understand how they work
-- I like coding, math, and music
+- I like coding, math and music
 
 <div align="center">
   <picture>
